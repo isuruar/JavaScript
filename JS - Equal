@@ -1,0 +1,7 @@
+// == operator(Equality)
+// === operator(Identity)
+
+let myVar = {}
+let myVarTwo = {}
+
+console.log(myVar === myVarTwo);
